@@ -1,0 +1,14 @@
+total 14
+drwxr-xr-x 1 DELL G3 3500 197121  0 Feb 13 13:20 .
+drwxr-xr-x 1 DELL G3 3500 197121  0 Feb 13 11:04 ..
+-rwxr-xr-x 1 DELL G3 3500 197121 30 Feb 13 11:20 0-hello_world
+-rwxr-xr-x 1 DELL G3 3500 197121 28 Feb 13 11:42 1-confused_smiley
+-rwxr-xr-x 1 DELL G3 3500 197121 28 Feb 13 12:10 2-hellofile
+-rwxr-xr-x 1 DELL G3 3500 197121 39 Feb 13 12:16 3-twofiles
+-rwxr-xr-x 1 DELL G3 3500 197121 29 Feb 13 12:31 4-lastlines
+-rwxr-xr-x 1 DELL G3 3500 197121 29 Feb 13 12:36 5-firstlines
+-rwxr-xr-x 1 DELL G3 3500 197121 36 Feb 13 12:44 6-third_line
+-rwxr-xr-x 1 DELL G3 3500 197121 80 Feb 13 13:11 7-file
+-rwxr-xr-x 1 DELL G3 3500 197121 36 Feb 13 13:20 8-cwd_state
+-rw-r--r-- 1 DELL G3 3500 197121  3 Feb 13 11:13 README.md
+-rw-r--r-- 1 DELL G3 3500 197121  0 Feb 13 13:20 ls_cwd_content
